@@ -1,0 +1,17 @@
+h1{
+    border-top-color: black;
+    background-color: grey;
+    -webkit-text-fill-color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25pt;
+}
+h2{
+    -webkit-text-fill-color: blue;
+    text-underline-position: below;
+}
+h3{
+    background-color: grey;
+    -webkit-text-fill-color: white;
+    text-underline-position: auto;
+    border-color: black;
+}
